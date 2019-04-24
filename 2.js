@@ -1,6 +1,3 @@
-//交换数值;
-
-
 var a=10;
 var b=20;
 var c;
@@ -23,6 +20,6 @@ console.log(f);
 
 
 //es6 中语法;
-var g=1,h=2;
+var g=3,h=4;
 [g,h]=[h,g];console.log(g,h);
 addd
